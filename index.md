@@ -1,3 +1,7 @@
-## Welcome to my website
+# Gupt1156's First CS193 Homework
 
-this is my first hw for 193
+- coding
+- weekly questions
+- attendance quiz
+
+
